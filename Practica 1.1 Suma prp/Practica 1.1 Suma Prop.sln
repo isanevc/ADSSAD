@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 1.1 Suma Prop", "Practica 1.1 Suma Prop.csproj", "{12CFAB0F-CE05-414D-B7A4-AEA9BB8BA99A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12CFAB0F-CE05-414D-B7A4-AEA9BB8BA99A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CFAB0F-CE05-414D-B7A4-AEA9BB8BA99A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CFAB0F-CE05-414D-B7A4-AEA9BB8BA99A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CFAB0F-CE05-414D-B7A4-AEA9BB8BA99A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A0C9571-8FE4-4CF0-9415-DA42B4EA1959}
+	EndGlobalSection
+EndGlobal
