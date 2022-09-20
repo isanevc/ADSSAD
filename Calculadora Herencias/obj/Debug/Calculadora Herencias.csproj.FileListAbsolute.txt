@@ -1,0 +1,11 @@
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Herencias\bin\Debug\Calculadora Herencias.exe.config
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Herencias\bin\Debug\Calculadora Herencias.exe
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Herencias\bin\Debug\Calculadora Herencias.pdb
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Herencias\obj\Debug\Calculadora Herencias.csproj.AssemblyReference.cache
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Herencias\obj\Debug\Calculadora Herencias.csproj.SuggestedBindingRedirects.cache
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Herencias\obj\Debug\Calculadora_Herencias.Form1.resources
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Herencias\obj\Debug\Calculadora_Herencias.Properties.Resources.resources
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Herencias\obj\Debug\Calculadora Herencias.csproj.GenerateResource.cache
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Herencias\obj\Debug\Calculadora Herencias.csproj.CoreCompileInputs.cache
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Herencias\obj\Debug\Calculadora Herencias.exe
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Herencias\obj\Debug\Calculadora Herencias.pdb
