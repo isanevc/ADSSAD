@@ -1,0 +1,11 @@
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Propiedades\bin\Debug\Calculadora Propiedades.exe.config
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Propiedades\bin\Debug\Calculadora Propiedades.exe
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Propiedades\bin\Debug\Calculadora Propiedades.pdb
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Propiedades\obj\Debug\Calculadora Propiedades.csproj.AssemblyReference.cache
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Propiedades\obj\Debug\Calculadora Propiedades.csproj.SuggestedBindingRedirects.cache
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Propiedades\obj\Debug\Calculadora_Propiedades.Form1.resources
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Propiedades\obj\Debug\Calculadora_Propiedades.Properties.Resources.resources
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Propiedades\obj\Debug\Calculadora Propiedades.csproj.GenerateResource.cache
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Propiedades\obj\Debug\Calculadora Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Propiedades\obj\Debug\Calculadora Propiedades.exe
+C:\Users\MariaIsabel\Desktop\3er Semestre\Programacion a objetos\Calculadora Propiedades\obj\Debug\Calculadora Propiedades.pdb
